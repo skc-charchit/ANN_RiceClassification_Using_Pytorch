@@ -1,6 +1,10 @@
-torch
-torchsummary
-scikit-learn
-matplotlib
 pandas
 numpy
+matplotlib
+seaborn
+scikit-learn
+fastapi
+uvicorn
+joblib
+pydantic
+motor
