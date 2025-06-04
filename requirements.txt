@@ -1,10 +1,8 @@
+torch
+torchvision
+torchaudio
+scikit-learn
+torchsummary
+matplotlib
 pandas
 numpy
-matplotlib
-seaborn
-scikit-learn
-fastapi
-uvicorn
-joblib
-pydantic
-motor
